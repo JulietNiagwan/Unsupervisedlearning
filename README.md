@@ -19,7 +19,7 @@ The dataset used in this project includes the following columns:
 
 ## Data Preprocessing
 Missing values were checked and handled.
-Numerical features (Age, Annual Income ($), Spending Score (1-100)) were selected for clustering.
+Numerical features (Annual Income ($), Spending Score (1-100)) were selected for clustering.
 Features were standardized using StandardScaler for optimal performance of the clustering algorithm.
 ## Methodology
 1. Elbow Method: 
